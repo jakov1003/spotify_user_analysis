@@ -1,0 +1,9 @@
+/.vscode
+/age_churn.csv
+/create_table_spotify.sql
+/cultural_churn.csv
+/data_load.sql
+/platform_churn.csv
+/preview.csv
+/preview.sql
+/spotify_user_analysis.csv
