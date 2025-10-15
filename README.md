@@ -54,7 +54,7 @@ with churned_age as (
         WHEN age BETWEEN 55 AND 59 THEN '55–59'
         ELSE 'Unknown'
         END AS age_groups,
-        COUNT(user_id) as churned_count
+    COUNT(user_id) as churned_count
     FROM 
         spotify_user_analysis
     WHERE 
