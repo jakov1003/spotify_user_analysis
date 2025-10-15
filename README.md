@@ -245,11 +245,11 @@ Larger ratio = better, smaller ratio = worse.
 
 ### Insight - it's never enough
 
-One data-driven business decision could be marketing investments targeted specifically at France and Germany, because the users from that group appear more difficult to retain based on their listening habits and general behavior.
+One data-driven business decision could be marketing investments specifically targeted at France and Germany, because the users from that group appear more difficult to retain based on their listening habits and general behavior.
 
 ## Time for some critical thinking 
 
-Serveral aspects of this dataset bothered me:
+Several aspects of this dataset bothered me:
 
 1.No distinction between Android and iOS users (both labeled as 'Mobile').
 
@@ -261,7 +261,7 @@ However, despite these problems, it was still quite useful for what I wanted to 
 
 ## A very simple conclusion
 
-I improved my buisness-oriented thinking and, once again, refreshed my knowledge of SQL.
+I improved my business-oriented thinking and, once again, refreshed my knowledge of SQL.
 
 
 
