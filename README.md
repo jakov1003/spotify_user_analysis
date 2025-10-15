@@ -236,21 +236,22 @@ ORDER BY
 ### Query output
 Larger ratio = better, smaller ratio = worse.
             
-| cultural_groups   | current_users | former_users | current_to_former_ratio |
-|:-------------:|:-------------:|:-------------:|:-----------------------:|
-| India-Pakistan       |     1489      |      521      |          2.86           |
-| France-Germany       |     1458      |      546      |          2.67           |
-| Anglosphere        |     2214      |      1004      |          2.21           |
+| cultural_groups | current_users | former_users | current_to_former_ratio |
+|:---------------:|:-------------:|:------------:|:----------------------:|
+| Anglosphere     | 2982          | 1004         | 2.97                   |
+| India-Pakistan  | 1489          | 521          | 2.86                   |
+| France-Germany  | 1458          | 546          | 2.67                   |
+
 
 ### Insight - it's never enough
 
-One data-driven business decision could be to invest even more in marketing within the Anglosphere, because the users from that cultural group appear more difficult to retain based on their listening habits and general behavior.
+One data-driven business decision could be marketing investments targeted specifically at France and Germany, because the users from that group appear more difficult to retain based on their listening habits and general behavior.
 
 ## Time for some critical thinking 
 
 Serveral aspects of this dataset bothered me:
 
-1.No distinction between Andrioid and iOS users (both labeled as 'Mobile').
+1.No distinction between Android and iOS users (both labeled as 'Mobile').
 
 2.No distinction between Windows and macOS users (both labeled as 'Desktop').
 

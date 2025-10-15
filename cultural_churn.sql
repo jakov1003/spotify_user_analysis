@@ -22,7 +22,7 @@ with churned_culture as (
 not_churned_culture as (
     SELECT
         CASE 
-        WHEN country IN ('US', 'UK', 'CA', 'AUS') THEN 'Anglosphere'
+        WHEN country IN ('US', 'UK', 'CA', 'AU') THEN 'Anglosphere'
         WHEN country IN ('FR', 'DE') THEN 'France-Germany'
         WHEN country IN ('IN', 'PK') THEN 'India-Pakistan'
         ELSE 'Unknown'
